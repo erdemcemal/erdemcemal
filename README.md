@@ -8,7 +8,7 @@
 I am a self-taught developer and I have been working as a backend developer in the software industry about 3 years. I belive in that team work certainly increase
 productivity, motivation and skills.
 
-- 🔭 I’m currently working at Roofstacks as a Backend Developer  
+- 🔭 I’m currently working at Property Finder as a Backend Developer  
   
 
 - 🌱 I’m currently learning Golang  
