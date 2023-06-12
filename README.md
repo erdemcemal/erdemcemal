@@ -11,7 +11,7 @@ productivity, motivation and skills.
 - 🔭 I’m currently working at Property Finder as a Backend Developer  
   
 
-- 🌱 I’m currently learning Golang  
+- 🌱 I’m currently developing with Golang  
   
 
 - ❓ Ask me about anything related to .Net and Net Core   
