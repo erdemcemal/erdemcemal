@@ -5,7 +5,7 @@
 
 ### <div align="center">I'm Cemal, a full-time back end developer 🚀</div>  
   
-I am a self-taught developer and I have been working as a backend developer in the software industry more then 4 years. I belive in that team work certainly increase
+I am a self-taught developer and I have been working as a backend developer in the software industry more than 4 years. I belive in that team work certainly increase
 productivity, motivation and skills.
 
 - 🔭 I’m currently working at Property Finder as a Backend Developer  
